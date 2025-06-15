@@ -1,1 +1,1 @@
-# EvevOrOddChecker
+# Greeting Program
